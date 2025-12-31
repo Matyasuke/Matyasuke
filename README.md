@@ -1,8 +1,8 @@
 ## Hi there 👋
 My website
 
-Japanese: matyasuke.github.io
+Japanese : [matyasuke.github.io](matyasuke.github.io)
 
-English: matyasuke.github.io/English.html
+English : [matyasuke.github.io/English.html](matyasuke.github.io/English.html)
 
 Support me on Buy Me a Coffee.
