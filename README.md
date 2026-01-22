@@ -1,7 +1,5 @@
 # Ryosuke Kumamoto
 
-##
-
 ### My website
 
 Japanese : [https://matyasuke.github.io](https://matyasuke.github.io)
